@@ -1,7 +1,5 @@
 # Study Plan
 
-### This is the study plan to make a more robust and mature software engineer.
-
 It includes, roughly:
 
 - Learning DevOps
