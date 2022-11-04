@@ -1,42 +1,55 @@
 # Study Plan
 
-It includes, roughly:
-
 - Learning DevOps
-    - Observability
-        - Metrics
-        - Logging
-    - Mitigation Strategies
-        - Graceful Degradation
-        - Throttling
-        - Backpressure
-        - Load shifting
-        - Circuit Breaker
-- Learning security
-- Advanced Node.js Concept
+    - [Follow devops roadmap](https://roadmap.sh/pdfs/devops.pdf)
+
+- Mitigation Strategies
+    - Graceful Degradation
+    - Throttling
+    - Backpressure
+    - Load shifting
+    - Circuit Breaker
+
+- Working with websockets
+
+- Deep dive into advanced node.js concepts
+    - call stack
+    - libuv
+    - event loop
+    - v8 engine
+
 - Elixir and Phoenix
 - Golang
-- Database Engineering
-- GraphQL
-- gRPC
+
+- Communication protocols:
+    - GraphQL
+    - gRPC
+
 - Advanced React Concepts
     - Next.js
-    - Micro frontends
-    - React Query
-- Learn the basics of other databases
-    - Cassandra (Column DB)
-    - Time series (InfluxDB, TimescaleDB)
-    - Realtime (Firebase, RethinkDB)
+    - Micro front ends
+    - React Query and SWR
+    - React Design Patterns
+
+- Databases
+    - Database Engineering
+    - Learn the basics of other databases
+        - Cassandra (Column DB)
+        - Time series (InfluxDB, TimescaleDB)
+        - Realtime (Firebase, RethinkDB)
+        - Graph (Neo4j)
+
 - Caching
     - CDN
     - Client-side caching
+
 - Web Security Knowledge
     - Content Security Policy
     - CORS
-- Graph Databases
-    - Neo4j
-- Web sockets
 
-Making clones of apps that already exist will cut-off time when coming up with ideas.
+- Cool topics I plan to learn eventually
+     - cloud architecture
+     - serverless
+     - edge computing
 
-Or made from ideas I have.
+> note to self: Making clones of apps that already exist will cut-off time when coming up with ideas or make it from ideas I have.
